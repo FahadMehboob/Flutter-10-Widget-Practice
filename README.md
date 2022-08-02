@@ -15,5 +15,5 @@ Top widgets that helps to build any kind of a API
 * Padding & Align widgets
 * Image widget
 
-List View Builder
+
 ![image](https://user-images.githubusercontent.com/57399229/182293144-4ed355fd-e2ef-4dc4-83c2-6321139f5c65.png)

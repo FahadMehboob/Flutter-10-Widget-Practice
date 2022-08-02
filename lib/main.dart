@@ -34,8 +34,8 @@ class MyApp extends StatelessWidget {
                       backgroundImage: NetworkImage(
                           'https://images.pexels.com/photos/2787341/pexels-photo-2787341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'),
                     ),
-                    title: Text('Flutter With Fahad'),
-                    subtitle: Text('Learning New Skills'),
+                    title: Text('Learning Flutter'),
+                    subtitle: Text('Learning New Skill'),
                     trailing: Icon(Icons.access_time),
                   );
                 },
